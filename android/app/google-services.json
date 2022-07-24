@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079660234250",
+    "project_id": "ethic-4dd61",
+    "storage_bucket": "ethic-4dd61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079660234250:android:bb13a7bf4d973e8891c1f3",
+        "android_client_info": {
+          "package_name": "com.mfess.care.ethnic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079660234250-nrqev2l7qmi5tfk3f2334vpujo0aqrih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkz14QNv8mwzhocTHJXf8Dhhj74QvN520"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079660234250-nrqev2l7qmi5tfk3f2334vpujo0aqrih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
