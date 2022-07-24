@@ -68,6 +68,7 @@ Now, lets dive into the lib folder which has the main code for the application.
 6- widgets — Contains the common widgets for your applications. For example, Button, TextField etc.
 7- routes.dart — This file contains all the routes for your application.
 8- main.dart - This is the starting point of the application. All the application level configurations are defined in this file i.e, theme, routes, title, orientation etc.
+```
 
 ## Author
 Ponlakrit kaewmoon
