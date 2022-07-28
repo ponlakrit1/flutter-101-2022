@@ -1,33 +1,71 @@
 {
   "project_info": {
-    "project_number": "1079660234250",
-    "project_id": "ethic-4dd61",
-    "storage_bucket": "ethic-4dd61.appspot.com"
+    "project_number": "453363759801",
+    "firebase_url": "https://smart-care-4a5c5.firebaseio.com",
+    "project_id": "smart-care-4a5c5",
+    "storage_bucket": "smart-care-4a5c5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1079660234250:android:bb13a7bf4d973e8891c1f3",
+        "mobilesdk_app_id": "1:453363759801:android:27c5f0b95de73fc4ff7968",
         "android_client_info": {
-          "package_name": "com.mfess.care.ethnic"
+          "package_name": "com.example.doctor_chat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1079660234250-nrqev2l7qmi5tfk3f2334vpujo0aqrih.apps.googleusercontent.com",
+          "client_id": "453363759801-g404oc01mccd72aaqkg6ee09c0to3j0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctor_chat",
+            "certificate_hash": "84ac62a768756e091b50dd124703499d642ba637"
+          }
+        },
+        {
+          "client_id": "453363759801-ajugv0osfdl59702i97kf5bvg8t4hlu7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCkz14QNv8mwzhocTHJXf8Dhhj74QvN520"
+          "current_key": "AIzaSyBf--DXi9vOcficJ1fxWy1hmr9FgbJiez0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1079660234250-nrqev2l7qmi5tfk3f2334vpujo0aqrih.apps.googleusercontent.com",
+              "client_id": "453363759801-ajugv0osfdl59702i97kf5bvg8t4hlu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453363759801:android:cb713756cd343512ff7968",
+        "android_client_info": {
+          "package_name": "com.th.nctine.sample.flutter_101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453363759801-ajugv0osfdl59702i97kf5bvg8t4hlu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf--DXi9vOcficJ1fxWy1hmr9FgbJiez0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453363759801-ajugv0osfdl59702i97kf5bvg8t4hlu7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

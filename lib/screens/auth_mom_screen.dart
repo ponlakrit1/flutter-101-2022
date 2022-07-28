@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_101/service/mother_info_service.dart';
 import 'package:flutter_101/utils/utils.dart';
 import 'package:flutter_101/widget/custom_widget_tab.dart';
+import 'package:flutter_101/widget/gnav_tab.dart';
 import 'package:persistent_bottom_nav_bar/persistent-tab-view.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 
@@ -219,7 +220,7 @@ class _AuthMomScreenState extends State<AuthMomScreen> {
 
       pushNewScreen(
         context,
-        screen: ProvidedStylesExample(
+        screen: GnavTab(
           menuScreenContext: context,
           userType: "MOM",
         ),

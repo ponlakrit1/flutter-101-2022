@@ -1,6 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_101/widget/gnav_tab.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:flutter_101/service/staff_info_service.dart';
 import 'package:flutter_101/utils/utils.dart';
@@ -96,7 +97,7 @@ class _AuthVolunteerScreenState extends State<AuthVolunteerScreen> {
 
         pushNewScreen(
           context,
-          screen: ProvidedStylesExample(
+          screen: GnavTab(
             menuScreenContext: context,
             userType: "STAFF",
           ),
